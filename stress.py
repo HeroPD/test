@@ -1,4 +1,4 @@
 a = []
 while True:
     print len(a)
-    a.append(' ' * 2**6)
+    a.append(' ' * 2)
